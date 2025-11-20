@@ -1,4 +1,4 @@
-### ssh -inrt fire wall
+### ssh -inrt fire wall (mostly AI code)
 
 
 you have computerA with floating ip (192.168.1.203)
