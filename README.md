@@ -5,7 +5,7 @@ you have computerA with floating ip (192.168.1.203)
 
 you have another computerB with fixed ip (192.168.1.222)
 
-you use ssh Reverse proxy to make other computer by use this port
+you use ssh Reverse proxy to make other computer ssh to this computer by use this port
 
 ```
 ssh -R 1234:localhost:22 gino@192.168.1.222
